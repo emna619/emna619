@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Emna!
 
-🎓 18 | Just graduated high school  
-💻 Started coding at 15 — still going strong!
 
 ---
 
@@ -39,8 +37,7 @@ Here on my GitHub, you'll find:
 
 ## 🎯 Goals
 
-- Build apps that are useful *and* beautiful  
-- Join Apple’s coding camp 🍎🤞  
+- Build apps that are useful *and* beautiful    
 - Keep growing & helping others along the way
 
 ---
